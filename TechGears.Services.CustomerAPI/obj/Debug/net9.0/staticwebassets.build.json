@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bi6OIp0y3gBgnnjanEKV40lVfIaosnKqTAF1bY0viu8=",
+  "Source": "TechGears.Services.CustomerAPI",
+  "BasePath": "_content/TechGears.Services.CustomerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

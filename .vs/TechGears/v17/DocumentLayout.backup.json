@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ASP.NET Core\\Microservices\\TechGears\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDB7853-2057-4EDD-8DB1-C01F31A0E45F}|TechGears.Web\\TechGears.Web.csproj|f:\\asp.net core\\microservices\\techgears\\techgears.web\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CDB7853-2057-4EDD-8DB1-C01F31A0E45F}|TechGears.Web\\TechGears.Web.csproj|solutionrelative:techgears.web\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDB7853-2057-4EDD-8DB1-C01F31A0E45F}|TechGears.Web\\TechGears.Web.csproj|f:\\asp.net core\\microservices\\techgears\\techgears.web\\models\\lead\\leaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CDB7853-2057-4EDD-8DB1-C01F31A0E45F}|TechGears.Web\\TechGears.Web.csproj|solutionrelative:techgears.web\\models\\lead\\leaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDB7853-2057-4EDD-8DB1-C01F31A0E45F}|TechGears.Web\\TechGears.Web.csproj|f:\\asp.net core\\microservices\\techgears\\techgears.web\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CDB7853-2057-4EDD-8DB1-C01F31A0E45F}|TechGears.Web\\TechGears.Web.csproj|solutionrelative:techgears.web\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeadDTO.cs",
+              "DocumentMoniker": "F:\\ASP.NET Core\\Microservices\\TechGears\\TechGears.Web\\Models\\Lead\\LeadDTO.cs",
+              "RelativeDocumentMoniker": "TechGears.Web\\Models\\Lead\\LeadDTO.cs",
+              "ToolTip": "F:\\ASP.NET Core\\Microservices\\TechGears\\TechGears.Web\\Models\\Lead\\LeadDTO.cs",
+              "RelativeToolTip": "TechGears.Web\\Models\\Lead\\LeadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:35:02.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "F:\\ASP.NET Core\\Microservices\\TechGears\\TechGears.Web\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "TechGears.Web\\Controllers\\ContactController.cs",
+              "ToolTip": "F:\\ASP.NET Core\\Microservices\\TechGears\\TechGears.Web\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "TechGears.Web\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:28:10.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\ASP.NET Core\\Microservices\\TechGears\\TechGears.Web\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "TechGears.Web\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "F:\\ASP.NET Core\\Microservices\\TechGears\\TechGears.Web\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "TechGears.Web\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T13:27:11.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

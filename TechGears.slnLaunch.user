@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Run All",
+    "Projects": [
+      {
+        "Path": "TechGears.Services.Auth\\TechGears.Services.Auth.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TechGears.Services.LeadManagmentAPI\\TechGears.Services.LeadManagmentAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TechGears.Services.CustomerAPI\\TechGears.Services.CustomerAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TechGears.Web\\TechGears.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
