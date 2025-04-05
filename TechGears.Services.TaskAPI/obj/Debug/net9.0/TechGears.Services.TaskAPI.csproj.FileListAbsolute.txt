@@ -1,0 +1,67 @@
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\appsettings.Development.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\appsettings.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\TechGears.Services.TaskAPI.staticwebassets.endpoints.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\TechGears.Services.TaskAPI.exe
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\TechGears.Services.TaskAPI.deps.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\TechGears.Services.TaskAPI.runtimeconfig.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\TechGears.Services.TaskAPI.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\TechGears.Services.TaskAPI.pdb
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.csproj.AssemblyReference.cache
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.AssemblyInfoInputs.cache
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.AssemblyInfo.cs
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.csproj.CoreCompileInputs.cache
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.sourcelink.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\scopedcss\bundle\TechGears.Services.TaskAPI.styles.css
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets.build.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets.development.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets\msbuild.TechGears.Services.TaskAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets\msbuild.TechGears.Services.TaskAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.TechGears.Services.TaskAPI.props
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TechGears.Services.TaskAPI.props
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TechGears.Services.TaskAPI.props
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets.pack.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGear.654AADA7.Up2Date
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\refint\TechGears.Services.TaskAPI.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.pdb
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.genruntimeconfig.cache
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\ref\TechGears.Services.TaskAPI.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\appsettings.Development.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\appsettings.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\TechGears.Services.TaskAPI.staticwebassets.endpoints.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\TechGears.Services.TaskAPI.exe
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\TechGears.Services.TaskAPI.deps.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\TechGears.Services.TaskAPI.runtimeconfig.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\TechGears.Services.TaskAPI.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\TechGears.Services.TaskAPI.pdb
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.csproj.AssemblyReference.cache
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.AssemblyInfoInputs.cache
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.AssemblyInfo.cs
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.csproj.CoreCompileInputs.cache
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\scopedcss\bundle\TechGears.Services.TaskAPI.styles.css
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets.build.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets.development.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets\msbuild.TechGears.Services.TaskAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets\msbuild.TechGears.Services.TaskAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.TechGears.Services.TaskAPI.props
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TechGears.Services.TaskAPI.props
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TechGears.Services.TaskAPI.props
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\staticwebassets.pack.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGear.654AADA7.Up2Date
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\refint\TechGears.Services.TaskAPI.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.pdb
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\TechGears.Services.TaskAPI.genruntimeconfig.cache
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.TaskAPI\obj\Debug\net9.0\ref\TechGears.Services.TaskAPI.dll

@@ -1,0 +1,6 @@
+@TechGears.Services.CustomerAPI_HostAddress = http://localhost:5273
+
+GET {{TechGears.Services.CustomerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

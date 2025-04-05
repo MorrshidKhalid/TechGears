@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "u1cKnvZwrZvEP8xiZWZekYGjFpNpik8+tW+MMl+83v8=",
+  "Source": "TechGears.Services.TaskAPI",
+  "BasePath": "_content/TechGears.Services.TaskAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,61 @@
+@using TechGears.Web.Models.Lead
+@model InsertUpdateLead
+
+
+<form asp-action="NewContent" method="post" class="row g-3">
+  <div class="col-md-4">
+    <input asp-for="FirstName" class="form-control" placeholder="First name">
+    <span asp-validation-for="FirstName" class="text-danger"></span>
+  </div>
+  <div class="col-md-4">
+    <input asp-for="LastName" class="form-control" placeholder="Last name">
+    <span asp-validation-for="LastName" class="text-danger"></span>
+  </div>
+   <div class="col-md-4">
+    <input type="email" asp-for="Email" class="form-control" placeholder="ex@example.com">
+    <span asp-validation-for="Email" class="text-danger"></span>
+  </div>
+  <div class="col-md-2">
+    <input asp-for="Phone" class="form-control" placeholder="Phone">
+    <span asp-validation-for="Phone" class="text-danger"></span>
+  </div>
+  <div class="col-md-6">
+    <input asp-for="CompanyName" class="form-control" placeholder="Company Name">
+    <span asp-validation-for="CompanyName" class="text-danger"></span>
+  </div>
+  <div class="col-md-6">
+    <input asp-for="Indestry" class="form-control" placeholder="Indestry">
+    <span asp-validation-for="Indestry" class="text-danger"></span>
+  </div>
+ 
+
+  @* <div class="col-md-4">
+    <label for="inputState" class="form-label">State</label>
+    <select id="inputState" class="form-select">
+      <option selected>Choose...</option>
+      <option>Potintioal</option>
+      <option>Gold</option>
+      <option>Somthing 3</option>
+      <option>Somthing 4</option>
+    </select>
+  </div>
+  <div class="col-md-4">
+    <label for="inputSource" class="form-label">Source</label>
+    <select id="inputSource" class="form-select">
+      <option selected>Choose...</option>
+      <option>Call</option>
+      <option>Website</option>
+      <option>Ads</option>
+      <option>Facebook</option>
+    </select>
+  </div> *@
+  
+  <div class="col-12">
+    <button type="submit" class="btn btn-primary">Save</button>
+  </div>
+</form>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial"/>
+}

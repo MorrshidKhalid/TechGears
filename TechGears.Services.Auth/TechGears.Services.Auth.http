@@ -1,0 +1,6 @@
+@TechGears.Services.Auth_HostAddress = http://localhost:5180
+
+GET {{TechGears.Services.Auth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

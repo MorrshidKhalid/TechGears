@@ -1,0 +1,6 @@
+@TechGears.Services.LeadManagmentAPI_HostAddress = http://localhost:5052
+
+GET {{TechGears.Services.LeadManagmentAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

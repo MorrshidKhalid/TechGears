@@ -1,0 +1,123 @@
+[
+  {
+    "ContainingType": "TechGears.Services.LeadManagmentAPI.Controllers.LeadController",
+    "Method": "AllAsync",
+    "RelativePath": "api/leads/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechGears.Services.LeadManagmentAPI.Controllers.LeadController",
+    "Method": "AssignLeadToSalesRep",
+    "RelativePath": "api/leads/assign/{leadId}/{username}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leadId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechGears.Services.LeadManagmentAPI.Controllers.LeadController",
+    "Method": "ConvertLeadToCustomer",
+    "RelativePath": "api/leads/convert/{leadId}/address/{address}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leadId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "address",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechGears.Services.LeadManagmentAPI.Controllers.LeadController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/leads/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechGears.Services.LeadManagmentAPI.Controllers.LeadController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/leads/id/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechGears.Services.LeadManagmentAPI.Controllers.LeadController",
+    "Method": "CreateLeadAsync",
+    "RelativePath": "api/leads/new",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "TechGears.Services.LeadManagmentAPI.Models.DTO.InsertUpdateLead",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechGears.Services.LeadManagmentAPI.Controllers.LeadController",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/leads/update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "TechGears.Services.LeadManagmentAPI.Models.DTO.InsertUpdateLead",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

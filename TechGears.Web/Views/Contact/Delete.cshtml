@@ -1,0 +1,28 @@
+﻿@using TechGears.Web.Models.Lead
+@model LeadDTO
+
+
+<form asp-action="Delete" class="row g-3">
+    <input asp-for="LeadId" hidden>
+    <div class="col-md-4">
+        <input asp-for="FirstName" disabled class="form-control" placeholder="First name">
+    </div>
+    <div class="col-md-4">
+        <input asp-for="LastName" disabled class="form-control" placeholder="Last name">
+    </div>
+    <div class="col-md-4">
+        <input type="email" disabled asp-for="Email" class="form-control" placeholder="ex@example.com">
+    </div>
+    <div class="col-md-2">
+        <input asp-for="Phone" disabled class="form-control" placeholder="Phone">
+    </div>
+    <div class="col-md-6">
+        <input asp-for="CompanyName" disabled class="form-control" placeholder="Company Name">
+    </div>
+    <div class="col-md-6">
+        <input asp-for="Indestry" disabled class="form-control" placeholder="Indestry">
+    </div>
+    <div class="col-12">
+        <button type="submit" class="btn btn-danger">Delete</button>
+    </div>
+</form>

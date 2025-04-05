@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TechGears.Services.TaskAPI.props" />
+</Project>

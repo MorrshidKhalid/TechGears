@@ -1,0 +1,211 @@
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\bin\Debug\net9.0\appsettings.Development.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\bin\Debug\net9.0\appsettings.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\bin\Debug\net9.0\TechGears.Web.staticwebassets.runtime.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\bin\Debug\net9.0\TechGears.Web.staticwebassets.endpoints.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\bin\Debug\net9.0\TechGears.Web.exe
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\bin\Debug\net9.0\TechGears.Web.deps.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\bin\Debug\net9.0\TechGears.Web.runtimeconfig.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\bin\Debug\net9.0\TechGears.Web.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\bin\Debug\net9.0\TechGears.Web.pdb
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.AssemblyInfoInputs.cache
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.AssemblyInfo.cs
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.csproj.CoreCompileInputs.cache
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.RazorAssemblyInfo.cache
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.RazorAssemblyInfo.cs
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\scopedcss\bundle\TechGears.Web.styles.css
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\scopedcss\projectbundle\TechGears.Web.bundle.scp.css
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\p93gfjbi2k-b9sayid5wm.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\q1skioci56-61n19gt1b8.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\u5obf9k1o5-xtxxf3hu2r.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\s16c6epnxx-bqjiyaj88i.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\1yw1op9j3a-c2jlpeoesf.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\9p4qijvvsh-erw9l3u2r3.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\420brw4gwq-aexeepp0ev.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\4ri7nq28st-d7shbmvgxk.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\p83siwd9qc-ausgxo2sd3.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\egdnaqfkkm-k8d9w2qqmf.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\9fu19coax7-cosvhxvwiu.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\6bfhyiv6d1-ub07r2b239.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\lbwryp92sk-fvhpjtyr6v.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\uwjot35ztw-b7pk76d08c.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\0uz2fi8xpg-fsbi9cje9m.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\v2g37cgavo-rzd6atqjts.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\n7ydd7w0pj-ee0r1s7dh0.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\dsixtu1ufb-dxx9fxp4il.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\l0k1p3thi2-jd9uben2k1.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\tns2byvca8-khv3u5hwcm.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\ynsj2el5iw-r4e9w2rdcm.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\iafdd89brs-lcd1t2u6c8.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\lrnilsgo18-c2oey78nd0.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\q4yicwre5b-tdbxkamptv.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\05pcc1d6jt-j5mq2jizvt.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\0hd4vftvh1-06098lyss8.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\ddjad0xkl8-nvvlpmu67g.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\mixxlt2y1r-pj5nd1wqec.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\dcadl1pshf-46ein0sx1k.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\1rx2rxc3we-v0zj4ognzu.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\8xdjt1qyz7-37tfw0ft22.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\g4ix86vx3n-hrwsygsryq.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\z68a2goids-pk9g2wxc8p.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\rswaixperi-ft3s53vfgj.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\wu4yvrzg1r-6cfz1n2cew.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\xgnlhcf2va-6pdc2jztkx.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\v0ptp7mjfu-493y06b0oq.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\8zxpx2cprf-iovd86k7lj.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\6xk87x119b-vr1egmr9el.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\vg3j9e4apk-kbrnm935zg.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\mw60qn2r39-jj8uyg4cgr.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\41j9x43ou1-y7v9cxd14o.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\rwtqgsgh5x-notf2xhcfb.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\0lg45nyx39-h1s4sie4z3.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\fw5uvckwb0-63fj8s7r0e.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\hu9i6e3d5c-0j3bgjxly4.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\ohab7kjk0u-47otxtyo56.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\024je8kz3w-4v8eqarkd7.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\apza1mb7qa-356vix0kms.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\jor4g19mig-83jwlth58m.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\8yv4a1oyfh-mrlpezrjn3.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\j28w1ghu12-lzl9nlhx6b.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\4iazriyco4-ag7o75518u.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\v5mnkpm5ox-x0q3zqp4vz.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\iwgnktqlfw-0i3buxo5is.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\wa6lihbjhv-o1o13a6vjx.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\5r6xqzvhwo-ttgo8qnofa.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\0dslgzcecm-2z0ns9nrw6.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\iqu1l1qw3r-muycvpuwrr.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\gwrzy6cfah-87fc7y1x7t.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\miicw3hiof-mlv21k5csn.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets.build.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets.development.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets\msbuild.TechGears.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets\msbuild.TechGears.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets\msbuild.build.TechGears.Web.props
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TechGears.Web.props
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TechGears.Web.props
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets.pack.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\refint\TechGears.Web.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.pdb
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.genruntimeconfig.cache
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\ref\TechGears.Web.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.csproj.AssemblyReference.cache
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGear.DA4B5F67.Up2Date
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\fv459bqykg-4lvws26u51.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\bt44enteoi-rr0a6tgld0.gz
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\nqc66novpw-rr0a6tgld0.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\bin\Debug\net9.0\appsettings.Development.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\bin\Debug\net9.0\appsettings.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\bin\Debug\net9.0\TechGears.Web.staticwebassets.runtime.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\bin\Debug\net9.0\TechGears.Web.staticwebassets.endpoints.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\bin\Debug\net9.0\TechGears.Web.exe
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\bin\Debug\net9.0\TechGears.Web.deps.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\bin\Debug\net9.0\TechGears.Web.runtimeconfig.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\bin\Debug\net9.0\TechGears.Web.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\bin\Debug\net9.0\TechGears.Web.pdb
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\bin\Debug\net9.0\Newtonsoft.Json.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.csproj.AssemblyReference.cache
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.AssemblyInfoInputs.cache
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.AssemblyInfo.cs
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.csproj.CoreCompileInputs.cache
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.RazorAssemblyInfo.cache
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.RazorAssemblyInfo.cs
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\scopedcss\bundle\TechGears.Web.styles.css
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\scopedcss\projectbundle\TechGears.Web.bundle.scp.css
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\p93gfjbi2k-b9sayid5wm.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\q1skioci56-61n19gt1b8.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\u5obf9k1o5-xtxxf3hu2r.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\s16c6epnxx-bqjiyaj88i.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\1yw1op9j3a-c2jlpeoesf.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\9p4qijvvsh-erw9l3u2r3.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\420brw4gwq-aexeepp0ev.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\4ri7nq28st-d7shbmvgxk.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\p83siwd9qc-ausgxo2sd3.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\egdnaqfkkm-k8d9w2qqmf.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\9fu19coax7-cosvhxvwiu.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\6bfhyiv6d1-ub07r2b239.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\lbwryp92sk-fvhpjtyr6v.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\uwjot35ztw-b7pk76d08c.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\0uz2fi8xpg-fsbi9cje9m.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\v2g37cgavo-rzd6atqjts.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\n7ydd7w0pj-ee0r1s7dh0.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\dsixtu1ufb-dxx9fxp4il.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\l0k1p3thi2-jd9uben2k1.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\tns2byvca8-khv3u5hwcm.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\ynsj2el5iw-r4e9w2rdcm.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\iafdd89brs-lcd1t2u6c8.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\lrnilsgo18-c2oey78nd0.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\q4yicwre5b-tdbxkamptv.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\05pcc1d6jt-j5mq2jizvt.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\0hd4vftvh1-06098lyss8.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\ddjad0xkl8-nvvlpmu67g.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\fv459bqykg-4lvws26u51.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\mixxlt2y1r-pj5nd1wqec.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\dcadl1pshf-46ein0sx1k.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\1rx2rxc3we-v0zj4ognzu.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\8xdjt1qyz7-37tfw0ft22.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\g4ix86vx3n-hrwsygsryq.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\z68a2goids-pk9g2wxc8p.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\rswaixperi-ft3s53vfgj.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\wu4yvrzg1r-6cfz1n2cew.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\xgnlhcf2va-6pdc2jztkx.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\v0ptp7mjfu-493y06b0oq.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\8zxpx2cprf-iovd86k7lj.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\6xk87x119b-vr1egmr9el.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\vg3j9e4apk-kbrnm935zg.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\mw60qn2r39-jj8uyg4cgr.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\41j9x43ou1-y7v9cxd14o.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\rwtqgsgh5x-notf2xhcfb.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\0lg45nyx39-h1s4sie4z3.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\fw5uvckwb0-63fj8s7r0e.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\hu9i6e3d5c-0j3bgjxly4.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\ohab7kjk0u-47otxtyo56.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\024je8kz3w-4v8eqarkd7.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\apza1mb7qa-356vix0kms.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\jor4g19mig-83jwlth58m.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\8yv4a1oyfh-mrlpezrjn3.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\j28w1ghu12-lzl9nlhx6b.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\4iazriyco4-ag7o75518u.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\v5mnkpm5ox-x0q3zqp4vz.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\iwgnktqlfw-0i3buxo5is.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\wa6lihbjhv-o1o13a6vjx.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\5r6xqzvhwo-ttgo8qnofa.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\0dslgzcecm-2z0ns9nrw6.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\iqu1l1qw3r-muycvpuwrr.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\gwrzy6cfah-87fc7y1x7t.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\miicw3hiof-mlv21k5csn.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\bt44enteoi-rr0a6tgld0.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\compressed\nqc66novpw-rr0a6tgld0.gz
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets.build.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets.development.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets\msbuild.TechGears.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets\msbuild.TechGears.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets\msbuild.build.TechGears.Web.props
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TechGears.Web.props
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TechGears.Web.props
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\staticwebassets.pack.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGear.DA4B5F67.Up2Date
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\refint\TechGears.Web.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.pdb
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.genruntimeconfig.cache
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\obj\Debug\net9.0\ref\TechGears.Web.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\obj\Debug\net9.0\TechGears.Web.sourcelink.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Web\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Web\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

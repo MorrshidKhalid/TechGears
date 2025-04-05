@@ -1,0 +1,332 @@
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\appsettings.Development.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\appsettings.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\TechGears.Services.LeadManagmentAPI.staticwebassets.endpoints.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\TechGears.Services.LeadManagmentAPI.exe
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\TechGears.Services.LeadManagmentAPI.deps.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\TechGears.Services.LeadManagmentAPI.runtimeconfig.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\TechGears.Services.LeadManagmentAPI.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\TechGears.Services.LeadManagmentAPI.pdb
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Azure.Core.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Azure.Identity.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Humanizer.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.ClientModel.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.CodeDom.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Drawing.Common.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Formats.Asn1.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Memory.Data.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Security.Permissions.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Text.Json.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Windows.Extensions.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.csproj.AssemblyReference.cache
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.AssemblyInfoInputs.cache
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.AssemblyInfo.cs
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.csproj.CoreCompileInputs.cache
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\scopedcss\bundle\TechGears.Services.LeadManagmentAPI.styles.css
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets.build.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets.development.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets\msbuild.TechGears.Services.LeadManagmentAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets\msbuild.TechGears.Services.LeadManagmentAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.TechGears.Services.LeadManagmentAPI.props
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TechGears.Services.LeadManagmentAPI.props
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TechGears.Services.LeadManagmentAPI.props
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets.pack.json
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGear.66315224.Up2Date
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\refint\TechGears.Services.LeadManagmentAPI.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.pdb
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.genruntimeconfig.cache
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\ref\TechGears.Services.LeadManagmentAPI.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\appsettings.Development.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\appsettings.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\TechGears.Services.LeadManagmentAPI.staticwebassets.endpoints.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\TechGears.Services.LeadManagmentAPI.exe
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\TechGears.Services.LeadManagmentAPI.deps.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\TechGears.Services.LeadManagmentAPI.runtimeconfig.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\TechGears.Services.LeadManagmentAPI.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\TechGears.Services.LeadManagmentAPI.pdb
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Azure.Core.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Azure.Identity.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Humanizer.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.ClientModel.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.CodeDom.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Memory.Data.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Text.Json.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.csproj.AssemblyReference.cache
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.AssemblyInfoInputs.cache
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.AssemblyInfo.cs
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.csproj.CoreCompileInputs.cache
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\scopedcss\bundle\TechGears.Services.LeadManagmentAPI.styles.css
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets.build.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets.development.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets\msbuild.TechGears.Services.LeadManagmentAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets\msbuild.TechGears.Services.LeadManagmentAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.TechGears.Services.LeadManagmentAPI.props
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TechGears.Services.LeadManagmentAPI.props
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TechGears.Services.LeadManagmentAPI.props
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\staticwebassets.pack.json
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGear.66315224.Up2Date
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\refint\TechGears.Services.LeadManagmentAPI.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.pdb
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\TechGears.Services.LeadManagmentAPI.genruntimeconfig.cache
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\obj\Debug\net9.0\ref\TechGears.Services.LeadManagmentAPI.dll
+F:\ASP.NET Core\Microservices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\projects\ASP.NET\Core\microserveices\TechGears\TechGears.Services.LeadManagmentAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
